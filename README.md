@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 - :seedling: I’m currently learning **Dot Net Core, Blazor, SQL**.
-- :speech_balloon: Ask me about **C#, React, Dot Net ... or anything [here](https://github.com/neeraj)**.
+- :speech_balloon: Ask me about **C#, React, Dot Net ... or anything [here](https://github.com/neerajsingh9090)**.
 - :zap: Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**.
 
 - :seedling: Exploring Technical Content Writing.

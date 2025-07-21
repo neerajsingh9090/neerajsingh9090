@@ -43,11 +43,7 @@
 
 ---
 
-### 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neerajsingh9090&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neerajsingh9090&theme=moonlight" alt="GitHub Profile Summary"/>
